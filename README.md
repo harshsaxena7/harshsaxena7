@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/harsh_saxena7" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_saxena7?logo=twitter&style=for-the-badge" alt="harsh_saxena7" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development and Problem Data Structures and Algorithms using C++.**
+- 🌱 I’m currently learning **Backend Development and Problem Solving in Data Structures and Algorithms using C++.**
 
 - 💬 Ask me about **C,C++,Development**
 
