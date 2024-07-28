@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend Development and Problem Solving in Data Structures and Algorithms using C++.**
 
-- 💬 Ask me about **C,C++,Development**
+- 💬 Ask me about **JAVA,C,C++,Development**
 
 - 📫 How to reach me **Gmail: kinshuk26harsh@gmail.com LinkedIn: https://www.linkedin.com/in/harsh-saxena-244873221/**
 
